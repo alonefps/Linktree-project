@@ -27,14 +27,13 @@ Este é um projeto Linktree simples usando HTML, CSS e JS para criar uma página
 3. Abra o arquivo index.html em seu navegador preferido.
 
 
-  ## Customização
-  
-    ```bash
-    Para adicionar ou editar links, abra o arquivo index.html e modifique o código HTML conforme necessário.
-    Para alterar o estilo, abra o arquivo style.css e faça as alterações desejadas.
-    Contribuição
-    Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema (issue) ou enviar um pedido de pull (pull request).
+## Contribuição
 
+   ```bash
+   Para adicionar ou editar links, abra o arquivo index.html e modifique o código HTML conforme necessário.
+   Para alterar o estilo, abra o arquivo style.css e faça as alterações desejadas.
+   Contribuição
+   Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema (issue) ou enviar um pedido de pull (pull request).
 
 ## Licença
 
