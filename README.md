@@ -28,7 +28,8 @@ Para adicionar ou editar links, abra o arquivo index.html e modifique o código 
 Para alterar o estilo, abra o arquivo style.css e faça as alterações desejadas.
 
 ## Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema (issue) ou enviar um pedido de pull (pull request).
+
+Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ## Licença
 
