@@ -16,7 +16,7 @@ Este é um projeto Linktree simples usando HTML, CSS e JS para criar uma página
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/alonefps/linktree-project.git
    
 2. Navegue até o diretório do projeto:
 cd nome-do-repositorio
