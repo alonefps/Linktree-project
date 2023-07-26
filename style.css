@@ -31,8 +31,7 @@ body {
 }
 
 body * {
-  font-family: "Inter", sans-serif;
-  color: var(--text-color);
+  font-family: "Poppins", sans-serif;
 }
 
 #container {
