@@ -2,12 +2,6 @@
 
 Este é um projeto Linktree simples usando HTML, CSS e JS para criar uma página de links personalizada.
 
-## Funcionalidades
-
-- Exibe uma lista de links para minhas redes sociais e outros recursos.
-- Permite adicionar, remover e reorganizar os links facilmente.
-- Interface intuitiva e responsiva.
-
 ## Pré-requisitos
 
 - Navegador da web atualizado.
@@ -22,10 +16,6 @@ Este é um projeto Linktree simples usando HTML, CSS e JS para criar uma página
 cd nome-do-repositorio
 
 3. Abra o arquivo index.html em seu navegador preferido.
-
-## Customização
-Para adicionar ou editar links, abra o arquivo index.html e modifique o código HTML conforme necessário.
-Para alterar o estilo, abra o arquivo style.css e faça as alterações desejadas.
 
 ## Contribuição
 
